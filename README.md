@@ -47,7 +47,7 @@ JARVIS operates on a biological metaphor to achieve autonomy:
 ### Planning Logic
 Here is how JARVIS constructs a JSON workflow to execute a user's request (e.g., "Play some music"):
 
-![Planning Logic](plan.png)
+![Planning Logic](example_plan.png)
 
 ---
 
